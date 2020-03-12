@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="/home/cir9akovic/Documents/YouTestMe/GC-9.2"/>
+			<item value="/home/cir9akovic/Documents/YouTestMe/GC-9.1"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

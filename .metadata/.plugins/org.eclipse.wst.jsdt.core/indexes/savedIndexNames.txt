@@ -1,1 +1,1 @@
-INDEX VERSION 1.4+/home/cir9akovic/TESTTESTTEST/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+INDEX VERSION 1.4+/home/cir9akovic/VerzijaDVA/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
