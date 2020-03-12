@@ -1,0 +1,13 @@
+#!/bin/bash
+
+mkdir -p /home/$USER/YTMProjects/svn/getCertified/branches
+
+cd /home/$USER/YTMProjects/svn/getCertified/branches
+
+read -p "Enter branch name: " branchName
+
+svn checkout https://svn.youtestme.com/getcertified/branches/$branchName
+
+mkdir -p /home/$USER/mySpacework/getCertified/$branchName
+
+cp -r /home/$USER/eclipse-workspace/{Servers,.metadata} /home/$USER/mySpacework/getCertified/$branchName
